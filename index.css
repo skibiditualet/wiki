@@ -1,0 +1,544 @@
+a[href*="%D0%A2%D0%B8%D1%82%D0%B0%D0%BD_%D0%9A%D0%B0%D0%BC%D0%B5%D1%80%D0%B0%D0%BC%D0%B5%D0%BD"] { /* Титан_Камерамен */
+color: #68a4ed;
+text-shadow: 1px 0 15px #68a4ed; 
+}
+
+a[href*="%D0%A2%D0%B8%D1%82%D0%B0%D0%BD_%D0%A1%D0%BF%D0%B8%D0%BA%D0%B5%D1%80%D0%BC%D0%B5%D0%BD"] { /* Титан_Спикермен */
+color: #d40202;
+text-shadow: 1px 0 5px #d40202;
+}
+
+/* Bureaucrats */
+a[href$=":JestXFots"], a[href$="/JestXFots"] {
+    font-weight:bold;
+    color: #FFA343 !important;
+    text-shadow: 0 0 5px #FFA343 !important;
+}
+
+a[href$=":JestXFots"] ~ .EntityHeader_middot__39-65:after {
+    content: "👑 Основатель";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #FFA343;
+    font-weight: 700;
+    border: 1px solid #FFA343;
+    border-radius:5px;
+}
+
+a[href$=":Fnafer_83"], a[href$="/Fnafer_83"], a[href$=":Fnafer%2083"], a[href$="/Fnafer%2083"] {
+    font-weight:bold;
+    color: #26bf5e !important;
+    text-shadow: 0 0 5px #26bf5e !important;
+}
+
+a[href$=":Fnafer%2083"] ~ .EntityHeader_middot__39-65:after {
+    content: "⭐ Администратор";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #26bf5e;
+    font-weight: 700;
+    border: 1px solid #26bf5e;
+    border-radius:5px;
+}
+
+a[href$=":Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$=":Shadow%20noir777"], a[href$="/Shadow%20noir777"] {
+    font-weight:bold;
+    color: #765dff !important;
+    text-shadow: 0 0 5px #765dff !important;
+}
+
+a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"], a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"] {
+    font-weight:bold;
+    color: #765dff !important;
+    text-shadow: 0 0 5px #765dff !important;
+}
+
+a[href$=":Shadow%20noir777"] ~ .EntityHeader_middot__39-65:after {
+    content: "🔨 Модератор контента";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #765dff;
+    font-weight: 700;
+    border: 1px solid #765dff;
+    border-radius:5px;
+}
+
+a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after {
+    content: "🔨 Модератор контента";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #765dff;
+    font-weight: 700;
+    border: 1px solid #765dff;
+    border-radius:5px;
+}
+
+/************************************ КамераМены **********************************/
+.page-Агенты .mw-customtoggle-cameramen {
+background-color: #68a4ed;
+border: 0px;
+}
+
+.page-Агенты .mw-customtoggle-cameramen:hover {
+background-color: #82afe5;
+}
+
+.page-Агенты .mw-customtoggle-speakerman {
+background-color: #d40202;
+border: 0px;
+}
+
+.page-Агенты .mw-customtoggle-speakerman:hover {
+background-color: #e81a1a;
+}
+
+.page-Агенты .mw-customtoggle-tvman {
+background-color: #672bff;
+border: 0px;
+}
+
+.page-Агенты .mw-customtoggle-tvman:hover {
+background-color: #8000ff;
+}
+
+.page-Агенты .page__main, .page-Агенты .rail-module,
+.page-КамераМен .page__main, .page-КамераМен .rail-module,
+.page-ВантузМен .page__main, .page-ВантузМен .rail-module {
+    --theme-link-color: #68a4ed;
+}
+
+.page-Агенты .pi-title,
+.page-КамераМен .pi-title,
+.page-Титан_КамераМен .pi-title,
+.page-Титан_Камерамен_2 .pi-title,
+.page-ВантузМен .pi-title {
+background-color: #68a4ed;
+}
+
+.page-Агенты .pi-header,
+.page-КамераМен .pi-header,
+.page-Титан_КамераМен .pi-header,
+.page-Титан_Камерамен_2 .pi-header,
+.page-ВантузМен .pi-header {
+background-color: #68a4ed;
+}
+
+.page-Агенты .pi-border-color,
+.page-КамераМен .pi-border-color,
+.page-Титан_КамераМен .pi-border-color,
+.page-Титан_Камерамен_2 .pi-border-color,
+.page-ВантузМен .pi-border-color {
+border-color: #68a4ed;
+}
+
+.page-Агенты .recent-wiki-activity__page-title,
+.page-Агенты .recent-wiki-activity__username,
+.page-Агенты .wds-button.wds-is-text,
+.page-Агенты .wds-button.wds-is-text:disabled,
+
+.page-КамераМен .recent-wiki-activity__page-title,
+.page-КамераМен .recent-wiki-activity__username,
+.page-КамераМен .wds-button.wds-is-text,
+.page-КамераМен .wds-button.wds-is-text:disabled,
+
+.page-Титан_КамераМен .recent-wiki-activity__page-title,
+.page-Титан_КамераМен .recent-wiki-activity__username,
+.page-Титан_КамераМен .wds-button.wds-is-text,
+.page-Титан_КамераМен .wds-button.wds-is-text:disabled,
+
+.page-Титан_Камерамен_2 .recent-wiki-activity__page-title,
+.page-Титан_Камерамен_2 .recent-wiki-activity__username,
+.page-Титан_Камерамен_2 .wds-button.wds-is-text,
+.page-Титан_Камерамен_2 .wds-button.wds-is-text:disabled,
+
+.page-ВантузМен .recent-wiki-activity__page-title,
+.page-ВантузМен .recent-wiki-activity__username,
+.page-ВантузМен .wds-button.wds-is-text,
+.page-ВантузМен .wds-button.wds-is-text:disabled {
+color: #68a4ed;
+text-shadow: 0 0 0 BLACK;
+}
+
+.page-Агенты .WikiaBarWrapper,
+.page-Агенты .page-header__action-button .button-counter,
+
+.page-КамераМен .WikiaBarWrapper,
+.page-КамераМен .page-header__action-button .button-counter,
+
+.page-Титан_КамераМен .WikiaBarWrapper,
+.page-Титан_КамераМен .page-header__action-button .button-counter,
+
+.page-Титан_Камерамен_2 .WikiaBarWrapper,
+.page-Титан_Камерамен_2 .page-header__action-button .button-counter,
+
+.page-ВантузМен .WikiaBarWrapper,
+.page-ВантузМен .page-header__action-button .button-counter {
+background-color: #68a4ed;
+text-shadow: 0 0 0 BLACK;
+}
+
+/************************************ Титан КамераМен **********************************/
+.page-Титан_КамераМен .page-content a,
+.page-Титан_Камерамен_2 .page-content a {
+color: #68a4ed;
+text-shadow: 1px 0 5px #406899;
+}
+
+.page-Титан_КамераМен .page-header__title,
+.page-Титан_Камерамен_2 .page-header__title {
+background-image: radial-gradient(100% 70% at center,#2366f7,transparent,transparent);
+text-align: center;
+text-shadow: 1px 0 10px black;
+text-transform: uppercase;
+}
+
+.page-Титан_КамераМен {
+--theme-body-background-image: url("https://i.imgur.com/fQ0KTJu.png");
+}
+
+.page-Титан_Камерамен_2 {
+--theme-body-background-image: url("https://i.imgur.com/V5gpUXI.png");
+}
+
+.page-Титан_КамераМен .wiki-page-header__title {
+color: #68a4ed;
+}
+
+/************************************ СпикерМены **********************************/
+.page-СпикерМен .page-content a {
+color: #d40202;
+}
+
+.page-СпикерМен .pi-title, 
+.page-Титан-Спикермен .pi-title,
+.page-Титан_Спикермен_2 .pi-title {
+background-color: #d40202;
+}
+
+.page-СпикерМен .pi-header,
+.page-Титан-Спикермен .pi-header,
+.page-Титан_Спикермен_2 .pi-header {
+background-color: #d40202;
+}
+
+.page-СпикерМен .pi-border-color,
+.page-Титан-Спикермен .pi-border-color,
+.page-Титан_Спикермен_2 .pi-border-color {
+border-color: #d40202;
+}
+
+.page-СпикерМен .recent-wiki-activity__page-title,
+.page-СпикерМен .recent-wiki-activity__username,
+.page-СпикерМен .wds-button.wds-is-text,
+.page-СпикерМен .wds-button.wds-is-text:disabled,
+
+.page-Титан-Спикермен .recent-wiki-activity__page-title,
+.page-Титан-Спикермен .recent-wiki-activity__username,
+.page-Титан-Спикермен .wds-button.wds-is-text,
+.page-Титан-Спикермен .wds-button.wds-is-text:disabled,
+
+.page-Титан_Спикермен_2 .recent-wiki-activity__page-title,
+.page-Титан_Спикермен_2 .recent-wiki-activity__username,
+.page-Титан_Спикермен_2 .wds-button.wds-is-text,
+.page-Титан_Спикермен_2 .wds-button.wds-is-text:disabled {
+color: #dd4b4b;
+text-shadow: 0 0 0 BLACK;
+}
+
+.page-СпикерМен .WikiaBarWrapper,
+.page-СпикерМен .page-header__action-button .button-counter,
+
+.page-Титан-Спикермен .WikiaBarWrapper,
+.page-Титан-Спикермен .page-header__action-button .button-counter,
+
+.page-Титан_Спикермен_2 .WikiaBarWrapper,
+.page-Титан_Спикермен_2 .page-header__action-button .button-counter {
+background-color: #d40202;
+text-shadow: 0 0 0 BLACK;
+}
+
+/************************************ Титан СпикерМен **********************************/
+.page-Титан-Спикермен .page-content a,
+.page-Титан_Спикермен_2 .page-content a {
+color: #d40202;
+text-shadow: 1px 0 5px #d40202;
+}
+
+.page-Титан-Спикермен .page-header__title,
+.page-Титан_Спикермен_2 .page-header__title {
+background-image: radial-gradient(100% 70% at center,#a1160b,transparent,transparent);
+text-align: center;
+text-shadow: 1px 0 10px black;
+text-transform: uppercase;
+}
+
+.page-Титан-Спикермен {
+--theme-body-background-image: url("https://i.imgur.com/qVf0cpb.png");
+}
+
+/************************************ ТВМены **********************************/
+.page-ТВМен .page-content a,
+.page-ТВМен_Учёный .page-content a {
+color: #8c5fff;
+}
+
+.page-ТВМен .pi-title,
+.page-Титан_ТВМен .pi-title,
+.page-Титан_ТВМен_2 .pi-title,
+.page-ТВМен_Учёный .pi-title {
+background-color: #8c5fff;
+}
+
+.page-ТВМен .pi-header,
+.page-Титан_ТВМен .pi-header,
+.page-Титан_ТВМен_2 .pi-header,
+.page-ТВМен_Учёный .pi-header {
+background-color: #8c5fff;
+}
+
+.page-ТВМен .pi-border-color,
+.page-Титан_ТВМен .pi-border-color,
+.page-Титан_ТВМен_2 .pi-border-color,
+.page-ТВМен_Учёный .pi-border-color {
+border-color: #8c5fff;
+}
+
+.page-ТВМен {
+--theme-body-background-image: url("https://i.imgur.com/NuqhSnZ.png");
+}
+
+.page-ТВМен_Учёный {
+--theme-body-background-image: url("https://i.imgur.com/tqqOlJh.png");
+}
+
+
+.page-ТВМен .recent-wiki-activity__page-title,
+.page-ТВМен .recent-wiki-activity__username,
+.page-ТВМен .wds-button.wds-is-text,
+.page-ТВМен .wds-button.wds-is-text:disabled,
+
+.page-ТВМен_Учёный .recent-wiki-activity__page-title,
+.page-ТВМен_Учёный .recent-wiki-activity__username,
+.page-ТВМен_Учёный .wds-button.wds-is-text,
+.page-ТВМен_Учёный .wds-button.wds-is-text:disabled,
+
+.page-Титан_ТВМен .recent-wiki-activity__page-title,
+.page-Титан_ТВМен .recent-wiki-activity__username,
+.page-Титан_ТВМен .wds-button.wds-is-text,
+.page-Титан_ТВМен .wds-button.wds-is-text:disabled,
+
+.page-Титан_ТВМен_2 .recent-wiki-activity__page-title,
+.page-Титан_ТВМен_2 .recent-wiki-activity__username,
+.page-Титан_ТВМен_2 .wds-button.wds-is-text,
+.page-Титан_ТВМен_2 .wds-button.wds-is-text:disabled {
+color: #af8fff;
+text-shadow: 0 0 0 BLACK;
+}
+
+.page-ТВМен .WikiaBarWrapper,
+.page-ТВМен .page-header__action-button .button-counter,
+
+.page-ТВМен_Учёный .WikiaBarWrapper,
+.page-ТВМен_Учёный .page-header__action-button .button-counter,
+
+.page-Титан_ТВМен .WikiaBarWrapper,
+.page-Титан_ТВМен .page-header__action-button .button-counter,
+
+.page-Титан_ТВМен_2 .WikiaBarWrapper,
+.page-Титан_ТВМен_2 .page-header__action-button .button-counter {
+background-color: #8c5fff;
+text-shadow: 0 0 0 BLACK;
+}
+
+/************************************ Титан ТВМен **********************************/
+	
+.page-Титан_ТВМен {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/8/8d/Tvman.png");	
+}
+
+.page-Титан_ТВМен_2 {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/5/50/Tvtitan2_wall.png");	
+}
+
+.page-Титан_ТВМен .page__main, .page-Титан_ТВМен .rail-module,
+.page-Титан_ТВМен_2 .page__main, .page-Титан_ТВМен_2 .rail-module {
+--theme-link-color: #7640ff;
+}
+
+.page-Титан_ТВМен .page-content a,
+.page-Титан_ТВМен_2 .page-content a {
+text-shadow: 1px 0 15px #672bff;
+}
+
+.page-Титан_ТВМен .page-header__title,
+.page-Титан_ТВМен_2 .page-header__title {
+background-image: radial-gradient(100% 70% at center,#482a91,transparent,transparent);
+text-align: center;
+text-shadow: 1px 0 10px black;
+text-transform: uppercase;
+}
+
+/************************************ Скибиди **********************************/
+.page-Астро_Скибиди_Туалеты {
+--theme-body-background-image: url("https://i.imgur.com/yMuOI4O.png");
+}
+
+.page-Эпизод_1 {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/7/75/Skibidi1back.gif");
+}
+.page-Эпизод_2 {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/2/2f/Skibidi2back.gif");
+}
+.page-Эпизод_3 {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/f/f2/Skibidi4back.gif");
+}
+.page-Эпизод_4 {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/f/f0/Skibidi5back.gif");
+}
+.page-Эпизод_60 {
+--theme-body-background-image: url("https://i.imgur.com/yMuOI4O.png");
+}
+.page-Эпизод_61 {
+--theme-body-background-image: url("https://i.imgur.com/ESVcajd.png");
+}
+.page-Эпизод_62 {
+--theme-body-background-image: url("https://i.imgur.com/cHKJdIs.png");
+}
+.page-Эпизод_63 {
+--theme-body-background-image: url("https://i.imgur.com/btUhLz9.png");
+}
+.page-Эпизод_67_1 {
+--theme-body-background-image: url("https://i.imgur.com/9Z2E9Mu.png");
+}
+.page-Эпизод_67_2 {
+--theme-body-background-image: url("https://i.imgur.com/4J3VADl.png");
+}
+.page-Эпизод_70_1 {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/2/2c/Back_701.png");
+}
+
+/************************************ Другое **********************************/
+.page-Секретный_агент .page-content a {
+color: #59dd8d;
+text-shadow: 1px 0 15px #1df126;
+}
+
+.page-Секретный_агент .pi-title {
+background-color: #1df126;
+}
+
+.page-Секретный_агент .pi-header {
+background-color: #1df126;
+}
+
+.page-Секретный_агент .pi-border-color {
+border-color: #1df126;
+}
+
+.page-Секретный_агент .recent-wiki-activity__page-title,
+.page-Секретный_агент .recent-wiki-activity__username,
+.page-Секретный_агент .wds-button.wds-is-text,
+.page-Секретный_агент .wds-button.wds-is-text:disabled {
+color: #1df126;
+text-shadow: 0 0 0 BLACK;
+}
+
+.page-Секретный_агент .WikiaBarWrapper,
+.page-Секретный_агент .page-header__action-button .button-counter {
+background-color: #1df126;
+text-shadow: 0 0 0 BLACK;
+}
+
+.page-Секретный_агент {
+--theme-body-background-image: url("https://static.wikia.nocookie.net/skibidi-tualet/images/5/53/Secretagent.gif");
+}
+
+.page-Секретный_агент .page-header__title {
+background-image: radial-gradient(100% 70% at center,#327a48,transparent,transparent);
+text-align: center;
+text-shadow: 1px 0 10px black;
+text-transform: uppercase;
+}
+
+.recentImage__details-title {
+color: white;
+}
+
+.fandom-community-header a {
+    color: white;
+}
+
+.portable-infobox {
+    border-radius: 15px;
+}
+
+.fandom-community-header__local-navigation .first-level-item a {
+    color: white;
+}
+
+.pi-title {
+    border-radius: 10px 10px 0 0;
+}
+
+/* Change the color of redirect pages (in All Pages page) */
+.theme-fandomdesktop-dark .allpagesredirect a {
+    color:#BB8800;
+    font-style:italic;
+    font-size:5;
+}
+
+#prohibited {
+color: red;
+}
+
+#warning {
+color: #ff7600;
+}
+
+/* -----Секции----- */
+.theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-section-header, .theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-section-header  {
+    color: #ffffff;
+    background: #44466d;
+}
+
+.theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-section-header, .theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-section-header  {
+    color: #3784bb;
+}
+
+/* -----HTML-разметка----- */
+.theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-htmltag-bracket , .theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-htmltag-name,
+.theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-htmltag-bracket, .theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-exttag-bracket,
+.theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-exttag-name, .theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-exttag-bracket,
+.theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-exttag-attribute, .theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-htmltag-attribute,
+.theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-tag-ref, .theme-fandomdesktop-dark.skin-fandomdesktop .cm-mw-exttag-CodeMirror-line {
+    color: #ffffff;
+    background: #662946;
+}
+
+.theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-htmltag-bracket , .theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-htmltag-name,
+.theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-htmltag-bracket, .theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-exttag-bracket,
+.theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-exttag-name, .theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-exttag-bracket,
+.theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-exttag-attribute, .theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-htmltag-attribute,
+.theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-tag-ref, .theme-fandomdesktop-light.skin-fandomdesktop .cm-mw-exttag-CodeMirror-line {
+    color: #9e3f6c;
+}
+
+.toc .toctitle h2 .wds-icon + .wds-icon {
+  display: none;
+}
+
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:Hoverimage.css&only=styles";
+
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:NewPagesModule.css&only=styles";
+
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:BalancedTabber.css&only=styles";
+
+@import "/load.php?mode=articles&articles=u:dev:MediaWiki:CustomSlider.css&only=styles";
