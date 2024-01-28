@@ -2,3 +2,5 @@
 
 ## Moderator
 ### [Springtrapfnaf123456](https://skibidi-tualet.fandom.com/ru/wiki/Участник:Springtrapfnaf123456)
+- удалил множество статей (иногда нужных)
+- начал непонятную работу с никами
