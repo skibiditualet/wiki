@@ -6,3 +6,5 @@
 - начал непонятную работу с никами
 
 Решение: **В феврале 2024 года - снимаем модера**
+
+![image](https://github.com/skibiditualet/wiki/assets/87380272/c6d81bd1-9fe2-46b9-a979-35faaf0b748e)
