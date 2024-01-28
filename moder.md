@@ -22,6 +22,15 @@
 - Хорошая [галерея](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_20?diff=prev&oldid=20331)
 - Надо научить его правилам [оформления](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_21?diff=prev&oldid=19207)
 
+### [DeVanYa](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/DeVanYa)
+- Чистит лишние правки
+
+![image](https://github.com/skibiditualet/wiki/assets/87380272/18fba7f8-c4a9-477b-ad9e-02e4ce944e32)
+
+- Участвовал в конфликтах
+
+![image](https://github.com/skibiditualet/wiki/assets/87380272/79c586d9-b7a8-43a2-b354-ebab596f4471)
+
 ### Редактор234
 - Пишет хорошие тексты, но слишком иносказательный язык.
 - Участвовал в конфликтах.
