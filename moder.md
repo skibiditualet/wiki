@@ -14,4 +14,5 @@
 - Участвовал в конфликтах.
 
 ### [NRC Aewuller](https://skibidi-tualet.fandom.com/ru/wiki/Участник:NRC_Aewuller)
-Хорошая [галерея](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_20?diff=prev&oldid=20331)
+- Хорошая [галерея](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_20?diff=prev&oldid=20331)
+- Надо научить его правилам [оформления](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_21?diff=prev&oldid=19207)
