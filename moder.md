@@ -1,9 +1,7 @@
 ### [Skibidi Users](https://docs.google.com/spreadsheets/d/1Yc7HcHbjzibJZscQjb7g4Iojh4Wu99Y3xYfv7fZOJRE)
 
-[Управление правами](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BF%D1%80%D0%B0%D0%B2%D0%B0%D0%BC%D0%B8?user=Springtrapfnaf123456)
-
 ## Moderator
-### [Springtrapfnaf123456](https://skibidi-tualet.fandom.com/ru/wiki/Участник:Springtrapfnaf123456)
+### [Springtrapfnaf123456](https://skibidi-tualet.fandom.com/ru/wiki/Участник:Springtrapfnaf123456) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Special:Управление_правами?user=Springtrapfnaf123456))
 - удалил множество статей (иногда нужных)
 - начал непонятную работу с никами
 
