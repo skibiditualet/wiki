@@ -1,7 +1,7 @@
 ### [Skibidi Users](https://docs.google.com/spreadsheets/d/1Yc7HcHbjzibJZscQjb7g4Iojh4Wu99Y3xYfv7fZOJRE)
 
 ## Moderator
-### [Springtrapfnaf123456](https://skibidi-tualet.fandom.com/ru/wiki/Участник:Springtrapfnaf123456) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Специальная:Управление_правами?user=Springtrapfnaf123456))
+### [Springtrapfnaf123456](https://skibidi-tualet.fandom.com/ru/wiki/Участник:Springtrapfnaf123456) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=Springtrapfnaf123456))
 - удалил множество статей (иногда нужных)
 - начал непонятную работу с никами
 
@@ -9,20 +9,20 @@
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/c6d81bd1-9fe2-46b9-a979-35faaf0b748e)
 
-### [Do You Understando?](https://skibidi-tualet.fandom.com/ru/wiki/Специальная:Вклад/Do_You_Understando%3F) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Специальная:Управление_правами?user=Do_You_Understando%3F))
+### [Do You Understando?](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/Do_You_Understando%3F) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=Do_You_Understando%3F))
 - Умеет делать [правки](https://skibidi-tualet.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%A1%D0%BF%D0%B8%D0%BA%D0%B5%D1%80%D0%9C%D0%B5%D0%BD?diff=prev&oldid=16561)
 - Не умеет в исходный код
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/75138797-da09-4b90-b32b-6702cda8fcf9)
 
-### [Vootez](https://skibidi-tualet.fandom.com/ru/wiki/Специальная:Вклад/Vootez) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Специальная:Управление_правами?user=Vootez))
+### [Vootez](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/Vootez) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=Vootez))
 - Неактивный участник, но делает хорошие редкие правки
 
-### [NRC Aewuller](https://skibidi-tualet.fandom.com/ru/wiki/Участник:NRC_Aewuller)
+### [NRC Aewuller](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/NRC_Aewuller) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=NRC_Aewuller))
 - Хорошая [галерея](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_20?diff=prev&oldid=20331)
 - Надо научить его правилам [оформления](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%B5%D0%B7%D0%BE%D0%BD_21?diff=prev&oldid=19207)
 
-### [DeVanYa](https://skibidi-tualet.fandom.com/ru/wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:%D0%92%D0%BA%D0%BB%D0%B0%D0%B4/DeVanYa)
+### [DeVanYa](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/DeVanYa) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=DeVanYa))
 - Чистит лишние правки
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/18fba7f8-c4a9-477b-ad9e-02e4ce944e32)
@@ -31,7 +31,7 @@
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/79c586d9-b7a8-43a2-b354-ebab596f4471)
 
-### Редактор234
+### [Редактор234](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/Редактор234) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=Редактор234))
 - Пишет хорошие тексты, но слишком иносказательный язык.
 - Участвовал в конфликтах.
 
