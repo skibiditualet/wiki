@@ -28,3 +28,4 @@
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/fe350eb9-647f-4686-9a4b-95453f06f16a)
 
+![image](https://github.com/skibiditualet/wiki/assets/87380272/6eb46eee-e287-46e7-86d7-4592b55939c7)
