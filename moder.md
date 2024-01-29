@@ -9,6 +9,8 @@
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/c6d81bd1-9fe2-46b9-a979-35faaf0b748e)
 
+![image](https://github.com/skibiditualet/wiki/assets/87380272/333eb6e5-2a95-4912-81fd-6926ec1705a2)
+
 ### [Do You Understando?](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/Do_You_Understando%3F) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=Do_You_Understando%3F))
 - Умеет делать [правки](https://skibidi-tualet.fandom.com/ru/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9_%D0%A1%D0%BF%D0%B8%D0%BA%D0%B5%D1%80%D0%9C%D0%B5%D0%BD?diff=prev&oldid=16561)
 - Не умеет в исходный код
