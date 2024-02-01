@@ -1,3 +1,8 @@
+### Lists Wiki
+https://wikis.fandom.com/wiki/List_of_Wikia_wikis
+
+https://community.fandom.com/wiki/Hub:Wikis_with_many_active_members
+
 ### Крутые вики
 Дизайн инфобокса https://thegrishaverse.fandom.com/ru/wiki/Сезон_1
 
