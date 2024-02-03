@@ -33,6 +33,8 @@
 
 ![image](https://github.com/skibiditualet/wiki/assets/87380272/79c586d9-b7a8-43a2-b354-ebab596f4471)
 
+![image](https://github.com/skibiditualet/wiki/assets/87380272/837b004c-0960-4413-9d2f-9618c6eae812)
+
 ### [Редактор234](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Вклад/Редактор234) ([управление правами](https://skibidi-tualet.fandom.com/ru/wiki/Служебная:Управление_правами?user=Редактор234))
 - Пишет хорошие тексты, но слишком иносказательный язык.
 - Участвовал в конфликтах.
