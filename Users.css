@@ -47,7 +47,7 @@ a[href$=":Fnafer%2083"] ~ .EntityHeader_middot__39-65:after {
 }
 
 /******************** Модераторы **********************/
-/*
+/**********************************
 a[href$=":Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$=":Shadow%20noir777"], a[href$="/Shadow%20noir777"] {
     font-weight:bold;
     color: #765dff !important;
@@ -59,13 +59,15 @@ a[href$=":Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"], a[href$=":Sp
     color: #765dff !important;
     text-shadow: 0 0 5px #765dff !important;
 }
-*/
+***************************/
 
 a[href$=":Do_You_Understando%3F"], a[href$="/Do_You_Understando%3F"], a[href$=":Do%20You%20Understando%3F"], a[href$="/Do%20You%20Understando%3F"] {
     font-weight:bold;
     color: #765dff !important;
     text-shadow: 0 0 5px #765dff !important;
 }
+
+/***********************
 a[href$=":Shadow%20noir777"] ~ .EntityHeader_middot__39-65:after {
     content: "🔨 Модератор контента";
     padding: 3px;
@@ -78,7 +80,6 @@ a[href$=":Shadow%20noir777"] ~ .EntityHeader_middot__39-65:after {
     border-radius:5px;
 }
 
-/*
 a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after {
     content: "🔨 Модератор контента";
     padding: 3px;
@@ -90,7 +91,7 @@ a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after {
     border: 1px solid #765dff;
     border-radius:5px;
 }
-*/
+****************************/
 
 a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after {
     content: "🔨 Модератор контента";
@@ -120,6 +121,7 @@ a[href$=":NRC_Aewuller"], a[href$="/NRC_Aewuller"], a[href$=":NRC%20Aewuller"], 
 
 /***************************** УЧАСТНИКИ БОЛЬШЕ 1000 ПРАВОК ***********************/
 a[href$="Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
+a[href$="Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$="Shadow%20noir777"], a[href$="/Shadow%20noir777"],
 a[href$="DeVanYa"], a[href$="/DeVanYa"]
 {
         font-weight:bold;
