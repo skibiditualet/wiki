@@ -16,9 +16,7 @@ a[href$=":Veselkin_Recroot"], a[href$="/Veselkin_Recroot"], a[href$="Veselkin%20
 
 /***************************** УЧАСТНИКИ БОЛЬШЕ 1000 ПРАВОК ***********************/
 a[href$="%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"], a[href$="/%D0%A0%D0%B5%D0%B4%D0%B0%D0%BA%D1%82%D0%BE%D1%80234"],
-a[href$="Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
 a[href$="Shadow_noir777"], a[href$="/Shadow_noir777"], a[href$="Shadow%20noir777"], a[href$="/Shadow%20noir777"],
-a[href$=":08_FnafKot_80"], a[href$="/08_FnafKot_80"], a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"],
 a[href$="DeVanYa"], a[href$="/DeVanYa"]
 {
         font-weight:bold;
@@ -114,3 +112,24 @@ a[href$=":Do%20You%20Understando%3F"] ~ .EntityHeader_middot__39-65:after
 
 
 /******************** Откатчики **********************/
+a[href$="Springtrapfnaf123456"], a[href$="/Springtrapfnaf123456"],
+a[href$=":08_FnafKot_80"], a[href$="/08_FnafKot_80"], a[href$=":08%20FnafKot%2080"], a[href$="/08%20FnafKot%2080"],
+{
+    font-weight:bold;
+    color: #cd3c48 !important;
+    text-shadow: 0 0 5px #cd3c48 !important;
+}
+
+a[href$=":Springtrapfnaf123456"] ~ .EntityHeader_middot__39-65:after,
+a[href$=":08_FnafKot_80"] ~ .EntityHeader_middot__39-65:after
+{
+    content: "🧹 Откатчик";
+    padding: 3px;
+    border-radius: 5px;
+    margin-left:4px;
+    font-size: 12px;
+    color: #cd3c48;
+    font-weight: 700;
+    border: 1px solid #cd3c48;
+    border-radius:5px;
+}
